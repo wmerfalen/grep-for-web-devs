@@ -47,3 +47,13 @@ grep --color=always | less -R
 ```
 grep -R preg_replace --color=always /var/www/html | less -R
 ```
+
+# How do I search for files that *don't* have a pattern?
+```
+grep -v pattern
+```
+
+## Example
+```
+grep -v html -R /var/www/html
+```
