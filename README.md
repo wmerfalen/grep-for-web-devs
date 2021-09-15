@@ -1,4 +1,4 @@
-# grep-for-web-devs
+# Grep for Web Devs
 A grep cheat sheet that any Web Developer can understand.
 
 # How do I use regular expressions similar to PHP's `preg_*` functions?
